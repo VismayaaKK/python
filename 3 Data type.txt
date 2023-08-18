@@ -1,0 +1,7 @@
+#it is a type of data
+# int represent a whole number
+# str rep a string
+#bool =True =1
+      =False=0
+#float=decimal values
+#complex=3+2j
