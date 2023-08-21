@@ -1,0 +1,10 @@
+used normal()
+
+#used to store multiple item in a single variable
+#it is collection which is orderd and un changable
+#immutable(unchangable)
+#tuples are written with round bracket
+#methods :
+#count:return count of a values
+#index:return index of a value
+    

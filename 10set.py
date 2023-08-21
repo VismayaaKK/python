@@ -1,0 +1,11 @@
+n={2,3,8,4,5,1}
+m={2,5,9,7,6,8}
+r=n.intersection(m)
+print(r)
+p=n.difference(m)
+print(p)
+u={20,30,22,40}
+u.pop()
+print(u)
+v=n.union(m)
+print(v)

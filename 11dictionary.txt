@@ -1,0 +1,17 @@
+storing multiple data in a single variable
+these are used to store data values in key:value paires
+a dictionary is a collection which is orderd,changable and do not allow duplication
+methods:
+*clear()remove all elements from dictionary
+*copy()returns a copy of the dictionary
+*fromkeys()returns a dictionary with the specified keys and values
+*get()returns the value of the specified key 
+*items()returns a list containing a tuple for each key value pair
+*keys()returns a list containing the dictionary keys
+*pop()remove the element with the specified key
+*popitem()removes the last inserted key value pair
+*setdefault()returns the value of the specified key.if the key does not exist;insert the key ,with the specified value
+*update()updates the dictionary with the specified key value paires
+*values()returns a list of all the values in the dictionary
+
+
