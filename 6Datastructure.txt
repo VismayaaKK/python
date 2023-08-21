@@ -1,0 +1,16 @@
+#List 
+#sorting multiple data in a single variable
+#heterogenous
+#orderd
+#changable along dubplicate
+built in methods :
+ *#append:add new item in the last position
+*clear:we can clear the all item in a List
+*copy:take copy of a list in to anthor
+*count:return occurance of a value
+*extend:merge two list
+*index:print index of a data
+*insert:insert item in to a specific position
+*pop:remove last item in a list
+*remove:remove items
+*sort:sort list in ascending or descending
