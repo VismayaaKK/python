@@ -1,0 +1,18 @@
+def add():
+    a=7
+    b=6
+    sum=a+b
+    print(sum)
+add()
+
+def add():
+    d=int(input("enter first number :"))
+    f=int(input("enter second number :"))
+    G=d+f
+    print(G)
+add()    
+
+def add(num1,num2):
+    sum=num1+num2
+    return sum
+print(add(3,4))

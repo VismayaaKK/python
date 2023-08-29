@@ -1,0 +1,15 @@
+function is a set of code to perform a particular task.
+def
+syntax:
+def name():
+   statements
+   statements
+
+   TYPES:
+   based on argument and return values
+   1.function with argument with return value
+   2.function with argument without return value 
+   3.function without argument with return value
+   4.function without argument without return value
+
+   type1:

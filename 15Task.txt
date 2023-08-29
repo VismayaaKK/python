@@ -1,0 +1,4 @@
+remove a particular data with same data type
+1.one by one
+2.condition
+3.remove

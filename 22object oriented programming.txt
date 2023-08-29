@@ -1,0 +1,15 @@
+object oriented programming
+in this method programm is return by using class and object
+class:template for creating objects.
+methods:function inside a class
+in object oriented programming data is stored in different location.if the variable is same
+but in procedural data is stored in same location
+id()is used to find the location
+constructor:method that automatically call when class is called
+
+pillers of object oriented programming:
+
+1.abstraction:it is the process of hiding the details of an application from the outer world
+2.encapsulation:the building of data ,along with the methods that operate on the data into a single unit
+3.inheritence:a mechanim that allows a class to inherit properties and behaviors from another class.
+4.polymorphism:its a feature of object oriented programming language that allows a specific routine to use of variables of different types at different times

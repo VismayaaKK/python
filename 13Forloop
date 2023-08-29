@@ -1,0 +1,41 @@
+l=[1,2,3,4]
+for i in l:
+    print(i)
+
+k=8
+if(k>5):
+    print(">5")
+else:
+    print("<5")
+
+v=6
+if(v%2==0):
+    print("even")
+else:
+    print("odd")
+
+sum=0
+t=[1,2,3,4,5,6,7,8,9,10]
+for i in t:
+    sum=sum +i
+print(sum)
+
+n=[1,2,3,'hi','hello']
+for i in n:
+    if(type(i)==str):
+        print(i)
+    else:
+        pass
+
+multiple=1
+r=[1,2,3,4]
+for i in r:
+    multiple=multiple*i
+print(multiple)    
+
+j=[1,2,3,4,5,'data',6,'stat']
+for i in j:
+    if(type(i)==str):
+        j.remove(i)
+print(j)
+

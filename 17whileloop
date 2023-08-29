@@ -1,0 +1,4 @@
+g=3
+while (g==3):
+    print("yes")
+    break

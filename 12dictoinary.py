@@ -14,5 +14,12 @@ print(d)
 w=n.keys()
 print(w)
 n.popitem()
+print(n) 
+b={
+'year':'2012',
+'plc':'edd'
+}
+n.update(b)
 print(n)
+
 

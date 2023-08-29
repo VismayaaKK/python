@@ -1,0 +1,22 @@
+def add(num1,num2):
+    sum=num1+num2
+    return sum
+print(add(5,4))
+# argument passing while creating a function
+#parameter:passing while calling function
+#return:returns the output into function name
+
+def add():
+    num3=3
+    num4=5
+    sum=num3+num4
+    print(sum)
+add()
+
+def add():
+    num5=5
+    num6=8
+    sum=num5+num6
+    return sum
+print(add())
+print("with return",add())

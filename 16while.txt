@@ -1,0 +1,2 @@
+whileloop is used for infinite execution
+braek is used to end the statement
